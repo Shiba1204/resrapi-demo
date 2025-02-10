@@ -1,4 +1,4 @@
-name: Deployment
+name: 1.Deployment-variable
 on:
   push:
     branches:
